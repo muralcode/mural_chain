@@ -1,8 +1,7 @@
 /*Author: Lerato Mokoena
   Company: Arithoptix Pty Ltd (Mural Code).
   Date: June 23, 2024
-  Description: main function
+  Description: modules
  */
-fn main() {
-    println!("Hello, world!");
-}
+pub mod mural_wallet;
+pub mod utilities;
